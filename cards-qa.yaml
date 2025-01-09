@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to subhanshu bank cards QA related APIS"
+  contactDetails:
+    name: "Randy Ortan : QA Lead"
+    email: "ortan.randy@bank.com"
+  phone:
+    - 101-123
+    - 102-112

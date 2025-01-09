@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to subhanshu bank cards local related APIS"
+  contactDetails:
+    name: "Subhanshu Tripathi"
+    email: "subhanshu.tripathi@bank.com"
+  phone:
+    - 111-122
+    - 122-111

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to subhanshu bank accounts Prod related APIS"
+  contactDetails:
+    name: "Joey tribbiani : Production Admin"
+    email: "tribbiani.joey@bank.com"
+  phone:
+    - 111-124
+    - 122-114

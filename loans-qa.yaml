@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to subhanshu bank accounts QA related APIS"
+  contactDetails:
+    name: "John Doe : QA Lead"
+    email: "doe.john@bank.com"
+  phone:
+    - 111-123
+    - 122-112
