@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Subhanshu Bank accounts QA related APIS"
+  message: "Welcome to Subhanshu-Bank accounts QA related APIS"
   contactDetails:
     name: "John Doe : QA Lead"
     email: "doe.john@bank.com"
